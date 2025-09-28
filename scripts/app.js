@@ -10,7 +10,7 @@ main.style.justifyContent = "center";
 main.style.alignItems = "center";
 main.style.minHeight = "100vh";
 // Color de fondo oscuro y la imagen de patrón
-main.style.background = "#181a25 url('../assets/imgs/Background_image@2x.png') no-repeat center top";
+main.style.background = "#181a25 url('assets/imgs/Background_image@2x.png') no-repeat center top";
 main.style.backgroundSize = '100% auto'; 
 main.style.color = "white";
 main.style.padding = '80px 20px'; 
@@ -56,19 +56,19 @@ const cardData = [
         icon: '👋', 
         title: "Collect Feedback at Multiple Touchpoints",
         text: "Provide a comprehensive understanding of the customer experience.",
-        imgSrc: "/assets/imgs/photo_1.png"
+        imgSrc: "assets/imgs/photo_1.png"
     },
     {
         icon: '🗓️', 
         title: "Ask Targeted and Specific Questions",
         text: "Avoid vague or open-ended questions that might not yield actionable insights.",
-        imgSrc: "/assets/imgs/photo_2.png"
+        imgSrc: "assets/imgs/photo_2.png"
     },
     {
         icon: '📝', 
         title: "Prioritize and Respond to Feedback",
         text: "Communicate the changes or improvements you've made in response to their feedback.",
-        imgSrc: "/assets/imgs/photo_3.png"
+        imgSrc: "assets/imgs/photo_3.png"
     },
 ];
 
