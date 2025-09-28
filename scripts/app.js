@@ -56,19 +56,19 @@ const cardData = [
         icon: '👋', 
         title: "Collect Feedback at Multiple Touchpoints",
         text: "Provide a comprehensive understanding of the customer experience.",
-        imgSrc: "../assets/imgs/photo_1.png"
+        imgSrc: "/assets/imgs/photo_1.png"
     },
     {
         icon: '🗓️', 
         title: "Ask Targeted and Specific Questions",
         text: "Avoid vague or open-ended questions that might not yield actionable insights.",
-        imgSrc: "../assets/imgs/photo_2.png"
+        imgSrc: "/assets/imgs/photo_2.png"
     },
     {
         icon: '📝', 
         title: "Prioritize and Respond to Feedback",
         text: "Communicate the changes or improvements you've made in response to their feedback.",
-        imgSrc: "../assets/imgs/photo_3.png"
+        imgSrc: "/assets/imgs/photo_3.png"
     },
 ];
 
